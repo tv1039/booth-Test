@@ -65,7 +65,7 @@ for (let i = 0; i < popupShowbutton.length; i++) {
 }
 
 const goTosite = () => {
-  location.href = "https://www.naver.com"
+  location.href = "https://tv1039.github.io/portfolio/load.html"
 }
 
 const showPopup01 = () => {
