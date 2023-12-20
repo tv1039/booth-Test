@@ -1,2 +1,2 @@
-# testpage.js
+#booth
 # popupTestpage
